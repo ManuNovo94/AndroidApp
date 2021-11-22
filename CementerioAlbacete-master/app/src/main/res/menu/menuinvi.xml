@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idconsulinvi"
+        android:title="@string/itregis" />
+    <item
+        android:id="@+id/idlocinvi"
+        android:title="@string/itloc" />
+    <item
+        android:id="@+id/idplano"
+        android:title="@string/itpla" />
+</menu>

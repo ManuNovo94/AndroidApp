@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Cementerio Municipal de Albacete</string>
+    <string name="title_activity_localizacion">Map</string>
+    <string name="PrefLog" />
+    <string name="IsLogin" />
+    <string name="guardarnotas">GUARDAR</string>
+    <string name="guardarnotaset">ANOTACIONES</string>
+    <string name="Consultaset">CONSULTA DE FALLECIDOS</string>
+    <string name="hintsNombre">Nombre</string>
+    <string name="hintAp1">Primer Apellido</string>
+    <string name="hintAp2">Segundo Apellido</string>
+    <string name="hintanio">Año</string>
+    <string name="hintpatio">Patio</string>
+    <string name="hintpab">Pabellón</string>
+    <string name="hintfila">Fila</string>
+    <string name="hintNumero">Número</string>
+    <string name="hintConsultar">Consultar</string>
+    <string name="ivitadohorario">El horario de apertura del Cementerio Municipal es: Todos los días del año desde las 8 horas a la puesda del Sol.</string>
+    <string name="invitahorario">Horario</string>
+    <string name="invitatelefcall">Para llamar al Tanatorio pulse</string>
+    <string name="invitaclick">Aquí</string>
+    <string name="loguser">Usuario</string>
+    <string name="logpass">**********</string>
+    <string name="logboton">ACCEDER</string>
+    <string name="functlabel">Pantalla Principal para Funcionarios</string>
+    <string name="mainbotinvi">INVITADOS</string>
+    <string name="mainbotfunc">FUNCIONARIOS</string>
+    <string name="labelplano">PLANO DEL CEMENTERIO</string>
+    <string name="regiseti">REGISTRO DE FALLECIDOS</string>
+    <string name="regisbot">REGISTRAR</string>
+    <string name="itregis">CONSULTAR</string>
+    <string name="itcerrarsesi">CERRAR SESIÓN</string>
+    <string name="itloc">DONDE ESTAMOS</string>
+    <string name="itpla">PLANO</string>
+    <string name="ayudaus"></string>
+    <string name="ayudainvi">Manual de Usuario</string>
+    <string name="usuarioinvihelp">
+Para realizar una consulta, pulse el menú en la opción “consultar”, rellene todos los campos, son obligatorios, una vez rellenados pulse el botón, si sus datos son correctos, la aplicación devolverá la información del patio, pabellón, fila y número del fallecido, en caso de existir un registro con los mismos datos, devolverá una lista con los datos anteriormente mencionados para cada uno de los difuntos
+Para ver la localización pulse en la opción del menú “Donde estamos”, se abrirá un mapa con un marcador y la localización del cementerio.
+Para ver un plano del cementerio, pulse en la opción del menú “Plano”, podrá ver una imagen del plano del cementerio de Albacete, haga zoom para poder ver con detalle.
+</string>
+<string name="LABUSINVI">Usuario Invitado</string>
+    <string name="LABUSFUNC">Usuario Funcionario</string>
+    <string name="funcinvi">
+
+        Para acceder a estas funciones, realice el Logín, con las credenciales que se le han otorgado
+Para realizar una consulta, pulse el menú en la opción “consultar”, rellene todos los campos, son obligatorios, una vez rellenados pulse el botón, si sus datos son correctos, la aplicación devolverá la información del patio, pabellón, fila y número del fallecido, en caso de existir un registro con los mismos datos, devolverá una lista con los datos anteriormente mencionados para cada uno de los difuntos.
+
+Para realizar un Registro, pulse el menú en la opción “Registrar”, rellene todos los campos, son obligatorios, una vez rellenados pulse el botón, registrar, de haberse realizado correcto, aparecerá un mensaje emergente que le informará de ellos,
+
+Para añadir una anotación, pulse el menú en la opción “Anotaciones”, rellene con los datos que le interese, recordar o anotar, importante asegúrese de pulsar el botón “Guardar”, de lo contrario no se guardaran los mismos y se perderán, podrá eliminar, actualizar añadir los datos que usted prefiera, pero asegúrese de pulsar el botón de guardar.
+
+
+    </string>
+
+
+</resources>

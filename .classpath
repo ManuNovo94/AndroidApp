@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CementerioAlbacete-master/app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="CementerioAlbacete-master/app/src/androidTest/java"/>
+	<classpathentry kind="src" path="CementerioAlbacete-master/app/src/main/java"/>
+	<classpathentry kind="src" path="CementerioAlbacete-master/app/src/test/java"/>
+	<classpathentry kind="lib" path="CementerioAlbacete-master/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="CementerioAlbacete-master/app/build/intermediates/merged_java_res/debug/out.jar"/>
+	<classpathentry kind="lib" path="CementerioAlbacete-master/app/build/intermediates/project_dex_archive/debug/out/3fbb5cdef8716508368b3db0170d09c8ec795863a0983521f826355b0b545d98_0.jar"/>
+	<classpathentry kind="lib" path="CementerioAlbacete-master/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="CementerioAlbacete-master/app/build/intermediates/javac/debug/classes"/>
+</classpath>
